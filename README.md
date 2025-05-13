@@ -35,7 +35,7 @@ node scraper.js
 ```
 ---
 
-## 🌍 English Version (English README below)
+## 🌍 English Version
 
 # scraping-tools
 
