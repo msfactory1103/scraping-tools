@@ -33,6 +33,12 @@ const BACKUP_FOLDER = 'D:/your/backup/folder';
 ```bash
 node scraper.js
 ```
+
+## 📄 Related Articles
+
+- Qiita: [Node.jsで静的Webサイトを丸ごと保存するツールを作った](https://qiita.com/msfactory1103/items/9cdb8a5d80a3561bb1a4)
+- Zenn: [静的Webサイトを丸ごと保存するNode.jsツール](https://zenn.dev/msfactory/articles/45035ba0a4293f)
+
 ---
 
 ## 🌍 English Version
